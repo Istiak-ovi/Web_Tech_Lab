@@ -3,7 +3,7 @@
 	<head></head>
 	<body>
 		
-		<fieldset>
+		<fieldset>  
 		* Fields are required
 			<form action="" method="post">
 				<table>
