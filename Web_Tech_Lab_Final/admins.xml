@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<admins>
+	<admin>
+		<fullname>Admin</fullname>
+		<username>admin</username>
+		<password>freshone</password>
+		<gender>Male</gender>
+        <contact>01703046469</contact>
+        <city>Dhaka</city>
+	</admin>
+<admin><fullName>Istiak</fullName><userName>istiak_m</userName><password>12345678</password><gender>on</gender><mail>istiak.ovi@yahoo.com</mail><contact>01703046469</contact><city>Nikunja</city></admin></admins>
