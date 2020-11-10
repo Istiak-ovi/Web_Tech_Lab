@@ -81,8 +81,8 @@
 	    			<td>
 	    				<select name="city">
 	    					<option>Ahmedabad</option>
+	    					<option>Nikunja</option>
 	    					<option>Mirpur</option>
-	    					<option>Bashundhara</option>
 	    				</select>
 	    			</td>
 	    		</tr>

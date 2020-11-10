@@ -31,7 +31,7 @@
    	 	  $has_err = true;
    	 	}
    	 	else if ($_POST["cpass"] != $_POST["pass"]) {
-   	 	  $err_cpass = "[Password and confirm password must be same";
+   	 	  $err_cpass = "Password and confirm password must same";
    	 	  $has_err = true;
    	 	}
    	 }
